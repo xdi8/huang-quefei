@@ -1,3 +1,6 @@
+NOTE: THIS ARCHIVE IS ORIGINALLY ON [GITEE](https://gitee.com/cn-0xis/huang-quefei).
+IT IS RESTORED HERE PERIODICALLY.
+
 # 黄雀飞文集
 
 黄雀飞（`hiTH queH nfiL`）是民间语言学家，希顶语的创造者。黄雀飞以「黄雀飞」「黄树桥」「雨心浪子」等笔名，在网上创作过大量与人生感怀相关的小说、诗歌等。本仓库意在收集散落在各处的黄雀飞作品。
